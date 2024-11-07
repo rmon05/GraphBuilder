@@ -10,3 +10,10 @@ Directed Graphs
 Graph Algorithms
 <br>
 UI Refactors
+
+# Dev Commands
+cd GraphBuilder
+<br>
+npm run dev
+<br>
+npm run watch-css
